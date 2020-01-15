@@ -2,8 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/majesty4u/test.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files $\pi$
-Test Test
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files ![IMG_1337.JPG]({{site.baseurl}}/IMG_1337.JPG)
+![IMG_1337.JPG]({{site.baseurl}}/IMG_1337.JPG)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
